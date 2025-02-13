@@ -6,6 +6,11 @@ body{
     font-size: 1.6rem;
 }
 
+/* change this as you like*/
+main{
+  padding: 1rem;
+}
+
 /* 1. Use a more-intuitive box-sizing model */
 *, *::before, *::after {
   box-sizing: border-box;
